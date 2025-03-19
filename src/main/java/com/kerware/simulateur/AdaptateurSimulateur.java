@@ -1,5 +1,6 @@
 package com.kerware.simulateur;
 
+// aaaaaaaaaaaaaaaaaaaaaa
 public class AdaptateurSimulateur implements ICalculateurImpot {
 
     private Simulateur simulateur = new Simulateur();
